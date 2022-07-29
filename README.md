@@ -7,4 +7,4 @@ Completed between 20/05/2022 and 23/07/2022 (Date format: dd/mm/yyyy).
 Exercises uploaded to github on 24/07/2022 (dd/mm/yyyy). Some exercises are missing due to changing computers during the course. I will upload these exercises from my TestMyCode at some point.
 
 # Certificate:
-![Certificate](https://imgur.com/a/Wip5wwb)
+![Certificate](https://imgur.com/a/Wip5wwb.png)
